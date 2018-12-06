@@ -1,9 +1,8 @@
 
 second file
 second file
-changed by
-student2
-=======
-now student 1 changed
+changed second file
+
 the file
+
 
